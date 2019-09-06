@@ -8,7 +8,7 @@ import About from '../components/web/About.vue';
 import Contact from '../components/web/Contact.vue';
 
 export default new VueRouter({
-    mode: history,
+    mode: 'history',
     routes: [
         { path: '/', component: Index },
         { path: '/about', component: About },
