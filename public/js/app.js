@@ -37119,7 +37119,7 @@ var render = function() {
       "div",
       { staticClass: "jumbotron mt-4" },
       [
-        _c("h1", { staticClass: "display-4" }, [_vm._v("About Pages")]),
+        _c("h1", { staticClass: "display-4" }, [_vm._v("Contact Pages")]),
         _vm._v(" "),
         _c("p", { staticClass: "lead" }, [
           _vm._v("It's SPA Sample. Developed by Laravel/Vue.js")
